@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,redbascket.com
 
   # Bilibili
-  - DOMAIN-KEYWORD,pcdn
   - DOMAIN,mcdn.bilivideo.com
   - DOMAIN,mcdn.bilivideo.cn
   - DOMAIN-SUFFIX,mcdn.bilivideo.cn

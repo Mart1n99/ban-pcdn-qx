@@ -1,92 +1,35 @@
 payload:
-
-  # 小红书
-  - DOMAIN,log2.cmpassport.com
-  - DOMAIN,ad.xiaohongshu.com
-  - DOMAIN-SUFFIX,xhscdn.com
-  - DOMAIN-SUFFIX,xiaohongshu.com
-  - DOMAIN-SUFFIX,redbascket.com
-
-  # Bilibili
-  - DOMAIN-KEYWORD,pcdn
-  - DOMAIN,mcdn.bilivideo.com
-  - DOMAIN,mcdn.bilivideo.cn
-  - DOMAIN-SUFFIX,mcdn.bilivideo.cn
-  - DOMAIN-SUFFIX,edge.mountaintoys.cn
-  - DOMAIN-SUFFIX,bilivideo.com
-  - DOMAIN-KEYWORD,stun
-
-  # 斗鱼
-  - DOMAIN,stun.douyucdn.cn
-  - DOMAIN,stun1.douyucdn.cn
-  - DOMAIN,p2p-ali.douyucdn.cn
-  - DOMAIN,p2pchunk-hw.douyucdn.cn
-  - DOMAIN,p2pchunk-table.douyucdn.cn
-  - DOMAIN,p2pchunk-ws.douyucdn.cn
-  - DOMAIN,p2perrorlog.douyucdn.cn
-  - DOMAIN,p2plive-ali.douyucdn.cn
-  - DOMAIN,p2plive-ws.douyucdn.cn
-  - DOMAIN,p2plog.douyucdn.cn
-  - DOMAIN,p2pvod-ws.douyucdn.cn
-  - DOMAIN-SUFFIX,douyucdn.cn
-  - DOMAIN-SUFFIX,douyucdn2.cn
-
-  # 优酷
-  - DOMAIN-KEYWORD,pcdn.youku
-
-  # 爱奇艺
-  - DOMAIN,tpa-hcdn.iqiyi.com
-
-  # 芒果TV
-  - DOMAIN,stun.hitv.com
-
-  # 喜马拉雅
-  - DOMAIN,pcdn.xmcdn.com
-
-  # 快手
-  - DOMAIN-SUFFIX,pcdn.yximgs.com
-  - DOMAIN-SUFFIX,vcloud.ks-live.com
-  - DOMAIN,yximgs-webrtc.liveplay.myqcloud.com
-  - DOMAIN-KEYWORD,xxpkg
-
-  # 腾讯
-  - DOMAIN,p2p.qq.com
-  - DOMAIN,p2ptun.qq.com
-  - DOMAIN,p2pupdate.gamedl.qq.com
-  - DOMAIN,p2pupgrade.gamedl.qq.com
-  - DOMAIN,hcdn.video.qq.com
-  - DOMAIN,pcdn.video.qq.com
-  - DOMAIN,vodlive.qq.com
-  - DOMAIN,iwan-s.video.qq.com
-  - DOMAIN,gdt.qq.com
-  - DOMAIN,cm.l.qq.com
-
-  # QQ下载
-  - DOMAIN,dldir.qq.com
-  - DOMAIN,dldir6.qq.com
-
-  # 抖音
-  - DOMAIN-SUFFIX,hypercachenode.com
-  - DOMAIN,pull-hs-f5-hot.flive.douyincdn.com
-
-  # TCL
-  - DOMAIN,pis-cnc-pcdn.cp31.ott.cibntv.net
-
-  # 第三方PCDN
-  - DOMAIN-SUFFIX,ksyungslb.com
-  - DOMAIN-SUFFIX,gjfzpt.cn
-  - DOMAIN-SUFFIX,szbdyd.com
-  - DOMAIN-SUFFIX,bsccdn.net
-  - DOMAIN-SUFFIX,pkoplink.com
-  - DOMAIN-SUFFIX,saxysec.com
-  - DOMAIN-SUFFIX,uhabo.com
-  - DOMAIN-SUFFIX,xycdn.com
-  - DOMAIN-SUFFIX,xinqiucc.com
-  - DOMAIN-SUFFIX,kuiniuca.com
-  - DOMAIN-SUFFIX,onethingpcs.com
-  - DOMAIN-SUFFIX,jomodns.cn
-
-  # 运营商
-  - DOMAIN,applecsb.crm.189.cn
-  - DOMAIN,shfzzx.cn
-  - IP-CIDR,182.43.124.6/32
+- DOMAIN-SUFFIX,gjfzpt.cn
+- DOMAIN-SUFFIX,szbdyd.com
+- DOMAIN-SUFFIX,bsccdn.net
+- DOMAIN-SUFFIX,pkoplink.com
+- DOMAIN-SUFFIX,saxysec.com
+- DOMAIN-SUFFIX,uhabo.com
+- DOMAIN-SUFFIX,xycdn.com
+- DOMAIN-SUFFIX,kuiniuca.com
+- DOMAIN-SUFFIX,onethingpcs.com
+- DOMAIN-SUFFIX,jomodns.cn
+- DOMAIN-SUFFIX,p2p.huya.com
+- DOMAIN-SUFFIX,stun.douyucdn.cn
+- DOMAIN-SUFFIX,stun.hitv.com
+- DOMAIN-SUFFIX,stun1.douyucdn.cn
+- DOMAIN-SUFFIX,mcdn.bilivideo.cn
+- DOMAIN-SUFFIX,tpa-hcdn.iqiyi.com
+- DOMAIN-SUFFIX,pcdn.xmcdn.com
+- DOMAIN-SUFFIX,pcdn.yximgs.com
+- DOMAIN-SUFFIX,dyp2p-ali.douyucdn.cn
+- DOMAIN-SUFFIX,dyp2p-hw.douyucdn.cn
+- DOMAIN-SUFFIX,p2p-ali.douyucdn.cn
+- DOMAIN-SUFFIX,p2p.qq.com
+- DOMAIN-SUFFIX,p2pchunk-hw.douyucdn.cn
+- DOMAIN-SUFFIX,p2pchunk-table.douyucdn.cn
+- DOMAIN-SUFFIX,p2pchunk-ws.douyucdn.cn
+- DOMAIN-SUFFIX,p2perrorlog.douyucdn.cn
+- DOMAIN-SUFFIX,p2plive-ali.douyucdn.cn
+- DOMAIN-SUFFIX,p2plive-ws.douyucdn.cn
+- DOMAIN-SUFFIX,p2plog.douyucdn.cn
+- DOMAIN-SUFFIX,p2ptun.qq.com
+- DOMAIN-SUFFIX,p2pupdate.gamedl.qq.com
+- DOMAIN-SUFFIX,p2pupgrade.gamedl.qq.com
+- DOMAIN-SUFFIX,p2pvod-ws.douyucdn.cn
+- DOMAIN-SUFFIX,mountaintoys.cn

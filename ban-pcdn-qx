@@ -1,0 +1,92 @@
+# Ban-PCDN for Quantumult X
+
+# 小红书
+HOST,log2.cmpassport.com,reject
+HOST,ad.xiaohongshu.com,reject
+HOST-SUFFIX,xhscdn.com,reject
+HOST-SUFFIX,xiaohongshu.com,reject
+HOST-SUFFIX,redbascket.com,reject
+
+# Bilibili
+HOST-KEYWORD,pcdn,reject
+HOST,mcdn.bilivideo.com,reject
+HOST,mcdn.bilivideo.cn,reject
+HOST-SUFFIX,mcdn.bilivideo.cn,reject
+HOST-SUFFIX,edge.mountaintoys.cn,reject
+HOST-SUFFIX,bilivideo.com,reject
+HOST-KEYWORD,stun,reject
+
+# 斗鱼
+HOST,stun.douyucdn.cn,reject
+HOST,stun1.douyucdn.cn,reject
+HOST,p2p-ali.douyucdn.cn,reject
+HOST,p2pchunk-hw.douyucdn.cn,reject
+HOST,p2pchunk-table.douyucdn.cn,reject
+HOST,p2pchunk-ws.douyucdn.cn,reject
+HOST,p2perrorlog.douyucdn.cn,reject
+HOST,p2plive-ali.douyucdn.cn,reject
+HOST,p2plive-ws.douyucdn.cn,reject
+HOST,p2plog.douyucdn.cn,reject
+HOST,p2pvod-ws.douyucdn.cn,reject
+HOST-SUFFIX,douyucdn.cn,reject
+HOST-SUFFIX,douyucdn2.cn,reject
+
+# 优酷
+HOST-KEYWORD,pcdn.youku,reject
+
+# 爱奇艺
+HOST,tpa-hcdn.iqiyi.com,reject
+
+# 芒果TV
+HOST,stun.hitv.com,reject
+
+# 喜马拉雅
+HOST,pcdn.xmcdn.com,reject
+
+# 快手
+HOST-SUFFIX,pcdn.yximgs.com,reject
+HOST-SUFFIX,vcloud.ks-live.com,reject
+HOST,yximgs-webrtc.liveplay.myqcloud.com,reject
+HOST-KEYWORD,xxpkg,reject
+
+# 腾讯
+HOST,p2p.qq.com,reject
+HOST,p2ptun.qq.com,reject
+HOST,p2pupdate.gamedl.qq.com,reject
+HOST,p2pupgrade.gamedl.qq.com,reject
+HOST,hcdn.video.qq.com,reject
+HOST,pcdn.video.qq.com,reject
+HOST,vodlive.qq.com,reject
+HOST,iwan-s.video.qq.com,reject
+HOST,gdt.qq.com,reject
+HOST,cm.l.qq.com,reject
+
+# QQ下载
+HOST,dldir.qq.com,reject
+HOST,dldir6.qq.com,reject
+
+# 抖音
+HOST-SUFFIX,hypercachenode.com,reject
+HOST,pull-hs-f5-hot.flive.douyincdn.com,reject
+
+# TCL
+HOST,pis-cnc-pcdn.cp31.ott.cibntv.net,reject
+
+# 第三方PCDN
+HOST-SUFFIX,ksyungslb.com,reject
+HOST-SUFFIX,gjfzpt.cn,reject
+HOST-SUFFIX,szbdyd.com,reject
+HOST-SUFFIX,bsccdn.net,reject
+HOST-SUFFIX,pkoplink.com,reject
+HOST-SUFFIX,saxysec.com,reject
+HOST-SUFFIX,uhabo.com,reject
+HOST-SUFFIX,xycdn.com,reject
+HOST-SUFFIX,xinqiucc.com,reject
+HOST-SUFFIX,kuiniuca.com,reject
+HOST-SUFFIX,onethingpcs.com,reject
+HOST-SUFFIX,jomodns.cn,reject
+
+# 运营商
+HOST,applecsb.crm.189.cn,reject
+HOST,shfzzx.cn,reject
+IP-CIDR,182.43.124.6/32,reject
